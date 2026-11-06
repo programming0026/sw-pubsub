@@ -8,7 +8,7 @@ import reactor.core.publisher.Mono;
 
 /**
  *
- * @author ajuar
+ * @author Java Universe
  */
 @Service
 public class PubSubPublisherService implements PublisherService {
